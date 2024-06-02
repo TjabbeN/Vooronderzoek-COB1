@@ -1,4 +1,4 @@
-Wavenumber  Absorbance
+Wavenumber   Absorbance
 650.4205	 0.1278
 652.2841	 0.1237
 654.1478	 0.1206
